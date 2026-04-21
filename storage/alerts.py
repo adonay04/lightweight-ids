@@ -2,7 +2,7 @@ def get_alerts():
     return [
         {
             "id": "A102",
-            "time": "12:03",
+            "time": "12:55",
             "severity": "HIGH",
             "type": "Port Scan",
             "source_ip": "192.168.1.23",
